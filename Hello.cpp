@@ -1,3 +1,3 @@
 main(){
-	
+	cout<<"hello";
 }
